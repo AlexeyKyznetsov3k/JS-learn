@@ -1,0 +1,14 @@
+h1{
+color: blueviolet;
+text-align: center;
+}
+.vid {
+
+    height: 100px;
+    width: 100%;
+    background-color:black;
+}
+
+div {
+    margin-bottom: 30px;
+}
